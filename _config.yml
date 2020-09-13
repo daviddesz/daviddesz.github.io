@@ -10,12 +10,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: David Souza # add your name
-author-img: david-Souza.jpg # add your photo
+author-img: daviddesz.jpg # add your photo
 about-author: I am a data engineer. # add description
-social-twitter: # add your Twitter handle
+social-twitter: daviddesz # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: daviddesz # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: daviddesz # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
